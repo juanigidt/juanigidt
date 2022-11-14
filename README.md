@@ -1,6 +1,4 @@
-## Developer using React 💕
-
-{   quote:  '`Experience is the name everyone gives to their mistakes.`'  }
+ '`Experience is the name everyone gives to their mistakes.`' 
 
 <!--
 **juanigidt/juanigidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
