@@ -1,0 +1,6 @@
+.test {
+  & > h1 {
+    color: black;
+  }
+  background-color: red;
+}
